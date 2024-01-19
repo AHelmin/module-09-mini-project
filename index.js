@@ -41,6 +41,7 @@ inquirer.prompt([
     <!DOCTYPE html>
     <html>
     <head>
+    <link rel="stylesheet" href="./assets/css/style.css">
           <title>${data.name}'s Portfolio</title>
     </head>
       <body>
